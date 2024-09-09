@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/Sprint2/Git_RepoPath/Doors_DiceGame/Doors_DiceGame/Content/StarterContent/Audio/Collapse01.uasset",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/Sprint2/Git_RepoPath/Doors_DiceGame/Doors_DiceGame/Content/Levels/M_Level1.umap",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/Sprint2/Git_RepoPath/Doors_DiceGame/Doors_DiceGame/Content/Levels/M_MainMenu.umap",
+				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/Sprint2/Git_RepoPath/Doors_DiceGame/Doors_DiceGame/Content/Levels/TM_Level1.uasset"
+			]
+		}
+	]
+}
