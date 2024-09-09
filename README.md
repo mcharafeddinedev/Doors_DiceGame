@@ -1,7 +1,7 @@
 # Doors_DiceGame
 // Doors N Dice 2D Platformer Game of Chance -- Student Project //
 
-This is for GitHub users and those that want to work within the Engine on the project. Consult with me if you have any questions, I cant answer everything but I will try -- Marwan C.
+This is for GitHub users and those that want to work within the Engine on the project. Consult with me if you have any questions, I cant answer everything but I will try -- MC
 
 Please Read Fully
 
