@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/erynj/OneDrive/Documents/GitHub/Doors_DiceGame/Content/Programming/Eryn/ThrowingDaggers.uasset",
+				"C:/Users/erynj/OneDrive/Documents/GitHub/Doors_DiceGame/Content/Programming/Eryn/WidgetBP.uasset",
+				"C:/Users/erynj/OneDrive/Documents/GitHub/Doors_DiceGame/Content/Levels/M_MainMenu.umap",
+				"C:/Users/erynj/OneDrive/Documents/GitHub/Doors_DiceGame/Content/Programming/Eryn/WB_Death_Victory.uasset",
 				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/Sprint2/Team2Project/Doors_DiceGame/Content/Levels/M_MainMenu.umap",
 				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/Sprint2/Team2Project/Doors_DiceGame/Content/Art/Madison/title_screen.uasset",
 				"E:/_HCCGameDev/GAME 2332 Proj Dev 1/Sprint2/Team2Project/Doors_DiceGame/Content/Art/Madison/bb_walkway_left.uasset",
